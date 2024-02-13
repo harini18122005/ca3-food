@@ -1,0 +1,84 @@
+body{
+    background-color:bisque;
+    position: absolute;
+    margin: 0;
+    left: 2900px;
+    overflow-x: hidden;
+    /* background-position-x:right;
+    background-position-y:center; */
+}
+
+#logo{
+    position: relative;
+    bottom: 3200px;
+    right: 2800px;
+    height: 600px;
+    width: 600px;
+    border-radius: 900px;
+}
+.bi{
+    position:absolute;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size:bolder;
+    bottom:1200;
+
+
+}
+span{
+    position: absolute;
+    text-align: center;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    font-size: 1000px;
+    bottom: 3200px;
+    right:4800px;
+    top: 400px;
+    
+    
+}
+.foo{
+    position: relative;
+    text-align: center;
+    font-family:'Gill Sans', 'Gill Sans MT',  'Trebuchet MS', sans-serif;
+    font-size: 200px;
+    bottom: 3200px;
+    right:3200px;
+}
+#para{
+    position: relative;
+    text-align: center;
+    font-size: 200px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode',  Verdana, sans-serif;
+    bottom: 3000px;
+    right:2100px;
+}
+
+p{
+    position: relative;
+    text-align: center;
+    font-size: 300px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode',  Verdana, sans-serif;
+    bottom: 3000px;
+    right:3200px;
+
+}
+#arrow{
+    position:relative;
+    bottom:4960px;
+    right: 489px;
+
+}
+.cake{
+    position: relative;
+    height: 1500px;
+    width: 1500px;
+    right: 379px;
+    bottom: 4900px;    
+}
+#ypu{
+    position: relative;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode',  Verdana, sans-serif;
+    font-size: 200px;
+    bottom: 3000px;
+    right:2100px;
+}

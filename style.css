@@ -1,20 +1,37 @@
 body{
+
+
     background-color:bisque;
-    position: absolute;
-    margin: 0;
-    left: 2900px;
-    overflow-x: hidden;
+    background-image: url("./98b474780c2ce09162813d6423f4827a.png");
+    height: 5000px;
+    width: 5000px;
+    
+
+    
+    
+    
+    
+    
+
+   
+
+
+}
+    
+
+   
+ 
     /* background-position-x:right;
     background-position-y:center; */
-}
 
+/* 
 #logo{
     position: relative;
     bottom: 3200px;
-    right: 2800px;
-    height: 600px;
-    width: 600px;
-    border-radius: 900px;
+    right: 2900px;
+    height: 200px;
+    width: 200px;
+    border-radius:500px;
 }
 .bi{
     position:absolute;
@@ -29,20 +46,20 @@ span{
     position: absolute;
     text-align: center;
     font-family: Georgia, Times, 'Times New Roman', serif;
-    font-size: 1000px;
-    bottom: 3200px;
-    right:4800px;
-    top: 400px;
+    font-size: 300px;
+    bottom: 9200px;
+    right:5889px;
+    /* top: 2900px; */
     
     
 }
 .foo{
     position: relative;
-    text-align: center;
+    /* text-align: center; */
     font-family:'Gill Sans', 'Gill Sans MT',  'Trebuchet MS', sans-serif;
     font-size: 200px;
-    bottom: 3200px;
-    right:3200px;
+    bottom: 3400px;
+    right:3989px;
 }
 #para{
     position: relative;
@@ -50,7 +67,7 @@ span{
     font-size: 200px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode',  Verdana, sans-serif;
     bottom: 3000px;
-    right:2100px;
+    right:1000px;
 }
 
 p{
@@ -73,7 +90,8 @@ p{
     height: 1500px;
     width: 1500px;
     right: 379px;
-    bottom: 4900px;    
+    bottom: 4900px;
+    border-radius: 40px;   
 }
 #ypu{
     position: relative;
@@ -82,3 +100,9 @@ p{
     bottom: 3000px;
     right:2100px;
 }
+#back{
+    position:absolute;
+    right: 900px;
+    width: 500px;
+    height: 500px;
+} */
